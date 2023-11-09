@@ -29,6 +29,6 @@ The user side of the website is focused on providing functionalities to users wh
 ## Conclusion
 This project was developed to create a user-friendly platform where users can create posts and raise funds for charity. The website consists of an admin side and a user side. The admin manages user registration, post-approval, and post-deletion, while the user can register, log in, create posts, edit them, and delete them if required. This documentation provides a comprehensive overview of the project's objectives and functionalities, serving as a reference for future maintenance and development tasks.
 
-CharityHero deployed link:-https://648fe67694a86621e8b939e1--mellifluous-otter-953555.netlify.app/
+CharityHero deployed link:-https://mellifluous-otter-953555.netlify.app/
 
 
