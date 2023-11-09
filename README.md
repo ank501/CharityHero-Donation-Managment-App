@@ -31,19 +31,4 @@ This project was developed to create a user-friendly platform where users can cr
 
 CharityHero deployed link:-https://648fe67694a86621e8b939e1--mellifluous-otter-953555.netlify.app/
 
-Below are some of the screenshots of different pages of our website:-
 
-Home Page:-
-![image](https://github.com/Sonu-Shettiyar/warlike-current-5989/assets/111522711/de55e392-0e74-485f-9380-b0c0087dbd27)
-
-Footer Section:-
-![image](https://github.com/Sonu-Shettiyar/warlike-current-5989/assets/111522711/e31e768f-95a4-40c2-a392-92c56dcce054)
-
-Sign Up Page:-
-![image](https://github.com/Sonu-Shettiyar/warlike-current-5989/assets/111522711/690acd1b-071f-4207-bd46-ae5c1e2532d6)
-
-Login Page:-
-![image](https://github.com/Sonu-Shettiyar/warlike-current-5989/assets/111522711/63675912-12f6-48be-8ac0-be30b0362b9c)
-
-Campaign Page:-
-![image](https://github.com/Sonu-Shettiyar/warlike-current-5989/assets/111522711/bcad5c3d-bd48-4f93-a602-e7b5064f5602)
